@@ -1,0 +1,7 @@
+node_modules
+.git
+storage/session
+sessions
+tmp
+*.log
+*.zip
